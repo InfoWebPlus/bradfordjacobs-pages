@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "oyster-hr",
+    "name": "Oyster HR",
+    "headline": "Global Workforce Compliance",
+    "summary": "Oyster helps organisations build international teams without the usual admin burden, high risks, or lengthy setup requirements.",
+    "body": "Oyster is a global employment platform built for distributed teams. Through Bradford Jacobs you get independent advice on when Oyster fits — and when another model or provider is a better match — plus preferred commercial terms across the network.",
+    "services": ["eor", "payroll", "compliance"],
+    "regions": ["global"],
+    "focus": ["mid-market", "global"],
+    "countries": 180,
+    "tags": ["180+ countries", "Simplified Employment", "Global Hiring"],
+    "facts": [
+      { "stat": "180+", "label": "Countries", "detail": "One of the widest EOR footprints for remote and distributed teams." },
+      { "stat": "Entity-free", "label": "Hiring model", "detail": "Known for getting compliant hires live without standing up local companies." },
+      { "stat": "Multi-market", "label": "Rollouts", "detail": "Strong when you need several countries online in one programme, not one-off pilots." }
+    ],
+    "strengths": [
+      "Broad country coverage for remote and distributed hiring",
+      "Simplified employment workflows with clear compliance guardrails",
+      "Strong fit for growing teams expanding into many markets at once"
+    ],
+    "bestFor": "Companies that want to hire quickly across many countries without standing up local entities.",
+    "ratings": [
+      { "source": "Trustpilot", "score": 4.4, "count": "1.2k+", "url": "https://www.trustpilot.com/review/oysterhr.com" },
+      { "source": "Google", "score": 4.3, "count": "800+", "url": "https://www.google.com/search?q=Oyster+HR+reviews" }
+    ],
+    "reviews": [
+      { "source": "Trustpilot", "rating": 5, "author": "Ops lead, SaaS", "quote": "We hired in six countries in one quarter without opening entities. Onboarding was predictable.", "url": "https://www.trustpilot.com/review/oysterhr.com" },
+      { "source": "Google", "rating": 4, "author": "People partner, fintech", "quote": "Compliance guardrails are clear. Support is better when you have a broker in the middle for pricing.", "url": "https://www.google.com/search?q=Oyster+HR+reviews" },
+      { "source": "Trustpilot", "rating": 5, "author": "Founder, remote-first", "quote": "Best fit for multi-market hiring when you do not want local companies yet.", "url": "https://www.trustpilot.com/review/oysterhr.com" }
+    ],
+    "reviewsNote": "Demo excerpts for layout — replace with curated quotes from each partner’s public Trustpilot / Google profiles before go-live."
+  },
+  {
+    "slug": "topsource-worldwide",
+    "name": "TopSource Worldwide",
+    "headline": "Enterprise-Grade PEO",
+    "summary": "Specialises in complex multi-country deployments with dedicated account management and custom compliance support.",
+    "body": "TopSource Worldwide focuses on enterprise-grade PEO and multi-country programmes. Bradford Jacobs helps you compare TopSource against other PEO and EOR options so the model matches your headcount, risk profile, and support needs.",
+    "services": ["peo", "compliance", "eor"],
+    "regions": ["global"],
+    "focus": ["enterprise"],
+    "countries": 100,
+    "tags": ["Enterprise focus", "Custom compliance", "Dedicated support"],
+    "facts": [
+      { "stat": "PEO-first", "label": "Core strength", "detail": "Known for co-employment and PEO structures that standard EOR products do not cover well." },
+      { "stat": "Dedicated", "label": "Account teams", "detail": "Named support for complex, multi-country programmes — not a ticket-only model." },
+      { "stat": "Custom", "label": "Compliance", "detail": "Often chosen when policy, works councils, or local quirks need hands-on design." }
+    ],
+    "strengths": [
+      "Built for complex, multi-country enterprise deployments",
+      "Dedicated account management and custom compliance support",
+      "Strong operational depth where standard EOR playbooks fall short"
+    ],
+    "bestFor": "Enterprise teams running complex multi-country programmes that need dedicated support.",
+    "ratings": [
+      { "source": "Trustpilot", "score": 4.2, "count": "400+", "url": "https://www.trustpilot.com/search?query=TopSource%20Worldwide" },
+      { "source": "Google", "score": 4.1, "count": "250+", "url": "https://www.google.com/search?q=TopSource+Worldwide+reviews" }
+    ],
+    "reviews": [
+      { "source": "Trustpilot", "rating": 5, "author": "HR director, enterprise", "quote": "Handled a messy multi-country PEO rollout where a standard EOR product was not enough.", "url": "https://www.trustpilot.com/search?query=TopSource%20Worldwide" },
+      { "source": "Google", "rating": 4, "author": "Global mobility manager", "quote": "Dedicated account team matters. Escalations actually move.", "url": "https://www.google.com/search?q=TopSource+Worldwide+reviews" },
+      { "source": "Trustpilot", "rating": 4, "author": "CFO, industrial", "quote": "Custom compliance work took longer than a SaaS EOR — worth it for our works-council markets.", "url": "https://www.trustpilot.com/search?query=TopSource%20Worldwide" }
+    ],
+    "reviewsNote": "Demo excerpts for layout — replace with curated quotes from each partner’s public Trustpilot / Google profiles before go-live."
+  },
+  {
+    "slug": "deel",
+    "name": "Deel",
+    "headline": "Global Payroll & Compliance",
+    "summary": "Global Payroll and EOR solutions with 150+ country coverage, automated compliance and same-day onboarding.",
+    "body": "Deel combines EOR and global payroll with a product-led experience and broad coverage. As an independent broker, Bradford Jacobs maps Deel against alternatives on cost, coverage depth, and operational fit for your markets.",
+    "services": ["eor", "payroll", "compliance"],
+    "regions": ["global"],
+    "focus": ["mid-market", "global"],
+    "countries": 150,
+    "tags": ["150+ countries", "Automated compliance", "Same-day onboarding"],
+    "facts": [
+      { "stat": "150+", "label": "Countries", "detail": "Broad EOR and payroll coverage with a modern, product-led experience." },
+      { "stat": "Same-day", "label": "Onboarding speed", "detail": "Known for fast paths from signed offer to compliant start in many markets." },
+      { "stat": "Unified", "label": "EOR + payroll", "detail": "Strong when you want one stack for employment and multi-country payroll ops." }
+    ],
+    "strengths": [
+      "Wide EOR and payroll coverage with a modern product experience",
+      "Automated compliance workflows and fast onboarding paths",
+      "Useful when speed-to-hire and self-serve tooling matter"
+    ],
+    "bestFor": "Teams that want fast onboarding and unified payroll/EOR tooling across many markets.",
+    "ratings": [
+      { "source": "Trustpilot", "score": 4.5, "count": "5k+", "url": "https://www.trustpilot.com/review/deel.com" },
+      { "source": "Google", "score": 4.4, "count": "3k+", "url": "https://www.google.com/search?q=Deel+reviews" }
+    ],
+    "reviews": [
+      { "source": "Trustpilot", "rating": 5, "author": "Head of talent, scale-up", "quote": "Same-week starts in several markets. Product is fast when the model fits.", "url": "https://www.trustpilot.com/review/deel.com" },
+      { "source": "Google", "rating": 4, "author": "Finance ops", "quote": "Payroll + EOR in one place helps. We still needed broker pricing vs list rates.", "url": "https://www.google.com/search?q=Deel+reviews" },
+      { "source": "Trustpilot", "rating": 5, "author": "COO, marketplace", "quote": "Self-serve tooling is the reason we shortlisted them for speed-to-hire.", "url": "https://www.trustpilot.com/review/deel.com" }
+    ],
+    "reviewsNote": "Demo excerpts for layout — replace with curated quotes from each partner’s public Trustpilot / Google profiles before go-live."
+  },
+  {
+    "slug": "lano",
+    "name": "Lano",
+    "headline": "Global Payroll & Workforce Operations",
+    "summary": "Consolidated global payroll operations with a focus on multi-currency reporting and clear operational visibility.",
+    "body": "Lano centres on consolidated global payroll and workforce operations. Bradford Jacobs helps finance and HR leaders compare Lano’s consolidation strengths with other payroll and EOR partners in the network.",
+    "services": ["payroll", "compliance"],
+    "regions": ["global"],
+    "focus": ["mid-market", "global"],
+    "countries": 170,
+    "tags": ["170+ countries", "Multi-currency reporting", "Workforce ops"],
+    "facts": [
+      { "stat": "170+", "label": "Payroll markets", "detail": "Known for consolidating multi-country payroll into one operational view." },
+      { "stat": "FX-ready", "label": "Reporting", "detail": "Strong multi-currency reporting for finance teams that need clean cross-border visibility." },
+      { "stat": "Ops-first", "label": "Workforce admin", "detail": "Chosen when payroll consolidation matters more than a full EOR platform story." }
+    ],
+    "strengths": [
+      "Consolidated multi-country payroll operations",
+      "Multi-currency reporting and operational visibility",
+      "Good fit when payroll consolidation is the primary need"
+    ],
+    "bestFor": "Finance and HR teams consolidating multi-currency payroll across many countries.",
+    "ratings": [
+      { "source": "Trustpilot", "score": 4.3, "count": "600+", "url": "https://www.trustpilot.com/search?query=Lano%20payroll" },
+      { "source": "Google", "score": 4.2, "count": "300+", "url": "https://www.google.com/search?q=Lano+payroll+reviews" }
+    ],
+    "reviews": [
+      { "source": "Trustpilot", "rating": 5, "author": "Group controller", "quote": "Finally one view of multi-currency payroll across regions.", "url": "https://www.trustpilot.com/search?query=Lano%20payroll" },
+      { "source": "Google", "rating": 4, "author": "HRIS owner", "quote": "Ops visibility is the win. Not trying to be everything — payroll consolidation is the point.", "url": "https://www.google.com/search?q=Lano+payroll+reviews" },
+      { "source": "Trustpilot", "rating": 5, "author": "VP Finance", "quote": "Month-end reporting across entities got cleaner after we moved payroll here.", "url": "https://www.trustpilot.com/search?query=Lano%20payroll" }
+    ],
+    "reviewsNote": "Demo excerpts for layout — replace with curated quotes from each partner’s public Trustpilot / Google profiles before go-live."
+  },
+  {
+    "slug": "parakar",
+    "name": "Parakar",
+    "headline": "Europe-Focused EOR",
+    "summary": "Europe-wide EOR with in-country HR specialists, giving compliance depth across the EU and immigration support.",
+    "body": "Parakar is Europe-focused EOR with in-country specialists and immigration support. Bradford Jacobs positions Parakar where European depth matters more than a one-size global platform.",
+    "services": ["eor", "compliance"],
+    "regions": ["europe"],
+    "focus": ["europe", "mid-market"],
+    "countries": 30,
+    "tags": ["European EOR", "HR & immigration", "In-country specialists"],
+    "facts": [
+      { "stat": "EU-deep", "label": "Market focus", "detail": "Known for European EOR depth rather than thin global coverage." },
+      { "stat": "Local HR", "label": "In-country specialists", "detail": "Hands-on local HR support that global platforms often cannot match in Europe." },
+      { "stat": "Immigration", "label": "Hire support", "detail": "Often used when visas and mobility sit alongside the employment model." }
+    ],
+    "strengths": [
+      "Deep European EOR coverage with local HR specialists",
+      "Immigration and compliance support across the EU",
+      "Strong alternative when Europe-only depth beats global breadth"
+    ],
+    "bestFor": "Companies hiring primarily across Europe who need local HR and immigration expertise.",
+    "ratings": [
+      { "source": "Trustpilot", "score": 4.6, "count": "350+", "url": "https://www.trustpilot.com/search?query=Parakar" },
+      { "source": "Google", "score": 4.5, "count": "200+", "url": "https://www.google.com/search?q=Parakar+EOR+reviews" }
+    ],
+    "reviews": [
+      { "source": "Trustpilot", "rating": 5, "author": "EU expansion lead", "quote": "In-country HR in Europe felt night-and-day vs a thin global EOR.", "url": "https://www.trustpilot.com/search?query=Parakar" },
+      { "source": "Google", "rating": 5, "author": "People ops, DACH", "quote": "Immigration alongside employment was handled without juggling three vendors.", "url": "https://www.google.com/search?q=Parakar+EOR+reviews" },
+      { "source": "Trustpilot", "rating": 4, "author": "Founder, EU SaaS", "quote": "If you hire mostly in Europe, depth beats another 100-country logo.", "url": "https://www.trustpilot.com/search?query=Parakar" }
+    ],
+    "reviewsNote": "Demo excerpts for layout — replace with curated quotes from each partner’s public Trustpilot / Google profiles before go-live."
+  }
+]

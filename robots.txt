@@ -1,0 +1,12 @@
+# Demo / staging — do not index. Reachable by direct link only.
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
